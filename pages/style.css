@@ -39,3 +39,8 @@
     margin-top: 0.5rem;
     color: var(--text-light);
 }
+
+body {
+  background-color: #f0f0f0; /* couleur de fond */
+  color: #333333;           /* couleur du texte */
+}
