@@ -18,7 +18,10 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
     line-height: 1.6;
     color: var(--text);
-    background-color: var(--bg);
+    background-color: #0e8fc2; 
+    color: #246e34;
+    font-family: Roboto, Arial, sans-serif;          
+
 }
 
 nav {
